@@ -3,7 +3,6 @@ import { Layout } from "./Layout";
 import { ProductTable } from "./ProductTable";
 import { DashboardStats } from "./DashboardStats";
 
-
 const Dashboard = () => {
   const [currentView, setCurrentView] = useState("dashboard");
 
